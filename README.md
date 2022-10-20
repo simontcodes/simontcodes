@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Simon
+#Simon Tang
 #### I am a FullStack Web Developer
 ![I am a FullStack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
