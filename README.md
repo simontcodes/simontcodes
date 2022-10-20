@@ -4,7 +4,6 @@
 
 I Recently decided to change careers and took a coding bootcamp where I learned all the skills necessary for this transition.
 
-Skills:  REACT / JS / HTML / CSS/ SASS/ MYSQL/ DEVOPS
 ## Skills and Expirience
 * ⚛️ React Js
 * 💻 HTML, CSS, JS
