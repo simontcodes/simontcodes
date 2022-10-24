@@ -1,6 +1,6 @@
 # Simon Tang
 #### I am a FullStack Web Developer
-![I am a FullStack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a FullStack Web Developer](https://github.com/simontcodes/simontcodes/blob/main/banner.png)
 
 I Recently decided to change careers and took a coding bootcamp where I learned all the skills necessary for this transition.
 
