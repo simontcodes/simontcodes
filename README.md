@@ -15,4 +15,5 @@ I Recently decided to change careers and took a coding bootcamp where I learned 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simontcodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simon-tang-arias//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/simon_codes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://simontang.codes)  
 
 [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simontcodes)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunchol-jun&layout=compact&theme=github_dark&hide_border=true" />
 
