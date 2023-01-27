@@ -5,9 +5,9 @@
 I Recently decided to change careers and took a coding bootcamp where I learned all the skills necessary for this transition.
 
 ## Skills and Expirience
-* ⚛️ React Js
+* ⚛️ React Js, TypeScript
 * 💻 HTML, CSS, JS
-* 🛢️ mySQL
+* 🛢️ mySQL/Mongo DB
 
 - 🔭 I’m currently working on my portfolio site https://simontang.codes 
 
